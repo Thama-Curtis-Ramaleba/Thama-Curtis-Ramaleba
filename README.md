@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thama-Curtis-Ramaleba
 - 👀 I’m interested in growing my career
-- 🌱 I’m currently learning python, sql and data science
+- 🌱 I’m currently learning python, sql and cyber security
 - 💞️ I’m looking to collaborate on anything possible which will help in growing my career
 - 📫 How to reach me can call/ whatsapp me @ 076 881 5054 or email me @ thamatc076@gmail.com
 
